@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleDisplayName</key>
+    <string>RunRoute AI</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.runroute.app</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>RunRoute AI는 현재 위치 기반 러닝 루트 추천 및 내비게이션을 위해 항상 위치 접근이 필요합니다.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>현재 위치 기반 러닝 루트를 추천해드립니다.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>러닝 페이스 및 칼로리 계산에 사용됩니다.</string>
+    <key>NSHealthShareUsageDescription</key>
+    <string>러닝 기록을 건강 앱에 저장합니다.</string>
+    <key>NSHealthUpdateUsageDescription</key>
+    <string>러닝 워크아웃 데이터를 건강 앱에 저장합니다.</string>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>location</string>
+        <string>fetch</string>
+    </array>
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>gps</string>
+    </array>
+    <key>UILaunchScreen</key>
+    <dict/>
+</dict>
+</plist>

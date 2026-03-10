@@ -1,0 +1,9 @@
+{
+  "name": "RunRoute AI",
+  "short_name": "RunRoute",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080D1E",
+  "theme_color": "#FF6B8A",
+  "orientation": "portrait"
+}
