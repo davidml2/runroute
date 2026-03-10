@@ -24,7 +24,7 @@ Recommends pedestrian-safe running routes based on your GPS location, preferred 
 
 > Screenshots below are from the **demo version** of the app.
 
-### Korean Version (한국어)
+### Korean Version
 
 | Setup | Route List | Navigation | Complete |
 |-------|-----------|------------|----------|
