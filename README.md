@@ -12,9 +12,27 @@ Recommends pedestrian-safe running routes based on your GPS location, preferred 
 | `demo/frontend-en/` | English PWA |
 | `demo/backend/` | Express.js API server |
 
-## Screenshots / Design
+## Demo Screenshots
 
-See `Design/runroute-watch-design.jsx` for the full Apple Watch UI design system with 9 screens.
+> Screenshots below are from the **demo version** of the app.
+
+### Korean Version (한국어)
+
+| Setup | Route List | Navigation | Complete |
+|-------|-----------|------------|----------|
+| ![Setup](Screenshot/Korean/korean_1.png) | ![Routes](Screenshot/Korean/korean_2.png) | ![Navigation](Screenshot/Korean/korean_3.png) | ![Complete](Screenshot/Korean/korean_4.png) |
+
+### English Version
+
+| Setup | Route List | Navigation | Complete |
+|-------|-----------|------------|----------|
+| ![Setup](Screenshot/English/English_1.png) | ![Routes](Screenshot/English/English_2.png) | ![Navigation](Screenshot/English/English_3.png) | ![Complete](Screenshot/English/English_4.png) |
+
+## Apple Watch UI Design
+
+Full 9-screen Apple Watch UI design system: [View Design (Claude Artifact)](https://claude.ai/public/artifacts/b2416594-ee46-46ae-8aaa-66a0c71fb63f)
+
+Source file: `Design/runroute-watch-design.jsx`
 
 ## Tech Stack
 
