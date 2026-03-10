@@ -8,7 +8,7 @@ Recommends pedestrian-safe running routes based on your GPS location, preferred 
 
 | Version | Description |
 |---------|-------------|
-| `demo/frontend/` | Korean (한국어) PWA |
+| `demo/frontend/` | Korean PWA |
 | `demo/frontend-en/` | English PWA |
 | `demo/backend/` | Express.js API server |
 
